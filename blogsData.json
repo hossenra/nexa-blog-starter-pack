@@ -53,6 +53,78 @@
       "author_name": "Mehedi Imun Anik",
       "blog_image": "https://startnearshoring.com/wp-content/uploads/2023/07/The_Growing_Importance_of_Cybersecurity.jpg",
       "total_likes": "950"
+    },
+    {
+      "id": "7",
+      "title": "The Metaverse: Redefining Digital Interaction",
+      "description": "Explore how the metaverse is transforming social interactions and work environments.",
+      "publish_date": "2025-03-07",
+      "author_name": "Tahsin Abrar",
+      "blog_image": "https://images.unsplash.com/photo-1642784353725-5a34a4b4a5b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80",
+      "total_likes": "1050"
+    },
+    {
+      "id": "8",
+      "title": "Sustainable Tech: Innovations for a Greener Future",
+      "description": "Discover how technology is being leveraged to combat climate change.",
+      "publish_date": "2025-03-08",
+      "author_name": "Nafisa Tabassum",
+      "blog_image": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80",
+      "total_likes": "1250"
+    },
+    {
+      "id": "9",
+      "title": "Edge Computing: The Future of Data Processing",
+      "description": "Understand how edge computing is revolutionizing data processing.",
+      "publish_date": "2025-03-09",
+      "author_name": "Rafid Al Fahad",
+      "blog_image": "https://images.unsplash.com/photo-1597852074816-d933c7d2b988?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80",
+      "total_likes": "880"
+    },
+    {
+      "id": "10",
+      "title": "Biotechnology: Merging Biology with Technology",
+      "description": "Explore the intersection of biology and technology solving humanity's challenges.",
+      "publish_date": "2025-03-10",
+      "author_name": "Sabrina Ahmed",
+      "blog_image": "https://images.unsplash.com/photo-1581094271901-8022df4466f9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80",
+      "total_likes": "1150"
+    },
+    {
+      "id": "11",
+      "title": "Autonomous Vehicles: The Road Ahead",
+      "description": "Take a deep dive into the world of self-driving cars and their technologies.",
+      "publish_date": "2025-03-11",
+      "author_name": "Arifur Rahman",
+      "blog_image": "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80",
+      "total_likes": "920"
+    },
+    {
+      "id": "12",
+      "title": "Space Tech: The New Frontier of Innovation",
+      "description": "Journey through the latest advancements in space technology and exploration.",
+      "publish_date": "2025-03-12",
+      "author_name": "Nusrat Jahan",
+      "blog_image": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80",
+      "total_likes": "1400"
+    },
+    {
+      "id": "efb2",
+      "title": "New Book",
+      "author_name": "Karim Molla",
+      "publish_date": "2025-08-10",
+      "total_likes": "571",
+      "blog_image": "https://www.insights.onegiantleap.com/content/images/2023/10/Content-Hub-Blog---The-rise-of-quantum-computing.png",
+      "description": "New book published"
+    },
+    {
+      "id": "202f",
+      "title": "",
+      "author_name": "",
+      "publish_date": "",
+      "total_likes": "",
+      "blog_image": "",
+      "description": ""
     }
   ]
 }
